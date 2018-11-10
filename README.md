@@ -18,3 +18,6 @@ is lost.
 Below the main functionality are the function definitions,
 organized by game play, performance, timer, modal, and reset
 functions.
+
+Special thanks to Matthew Cranford's blog for helping me when I had a really hard time getting started.
+Some of his functions were borrowed and modified.
